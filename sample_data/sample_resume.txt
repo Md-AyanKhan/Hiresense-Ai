@@ -1,0 +1,20 @@
+Ayan Khan
+Email: ayan@gmail.com | Phone: 9551651111
+LinkedIn: linkedin.com/in/ | GitHub: github.com/
+
+Summary
+Data-focused BTech Computer Science student specializing in Data Science with hands-on experience in Python, SQL, machine learning, analytics dashboards, and full-stack AI applications.
+
+Technical Skills
+Python, SQL, MySQL, Pandas, NumPy, scikit-learn, Machine Learning, Data Analysis, React, FastAPI, Tailwind CSS, Git, Excel
+
+Education
+BTech Computer Science, Data Science specialization
+
+Projects
+HireSense AI Resume Analyzer: Built a full-stack AI resume analyzer with React, FastAPI, MySQL, JWT auth, ATS scoring, JD matching, NLP parsing, and Chart.js analytics.
+ML Customer Churn Dashboard: Developed a classification model using pandas and scikit-learn, visualized churn drivers, and reported precision, recall, and F1-score.
+
+Certifications
+Python for Data Science
+Machine Learning Foundations

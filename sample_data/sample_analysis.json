@@ -1,0 +1,16 @@
+{
+  "ats_score": 84,
+  "match_result": {
+    "match_percentage": 78,
+    "strong_matching_skills": ["Python", "SQL", "Machine Learning", "Pandas", "React", "FastAPI"],
+    "missing_skills": ["Docker", "AWS", "NLP"],
+    "keyword_gap_analysis": ["model deployment", "cloud-ready deployment", "natural language processing"]
+  },
+  "score_breakdown": {
+    "skills_relevance": 29,
+    "keyword_presence": 19,
+    "resume_structure": 14,
+    "experience_strength": 12,
+    "project_quality": 10
+  }
+}

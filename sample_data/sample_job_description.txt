@@ -1,0 +1,3 @@
+Data Science Intern
+
+We are looking for a Data Science Intern who can work with Python, SQL, pandas, NumPy, scikit-learn, machine learning, model evaluation, dashboards, REST APIs, and cloud-ready deployment practices. The candidate should be comfortable with exploratory data analysis, feature engineering, data visualization, and communicating insights to product teams. Exposure to FastAPI, React, MySQL, Docker, AWS, NLP, and GitHub portfolio projects is preferred.
