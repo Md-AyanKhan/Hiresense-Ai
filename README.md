@@ -10,15 +10,15 @@ LinkedIn: https://www.linkedin.com/in/mohammad-ayan-khan3/
 
 | Landing | Dashboard |
 |--------|----------|
-| ![](docs/screenshots/landing-page.png.png) | ![](docs/screenshots/dashboard.png.png) |
+| ![](docs/screenshots/landing-page.png) | ![](docs/screenshots/dashboard.png) |
 
 | Resume Analysis | JD Match |
 |----------------|----------|
-| ![](docs/screenshots/resume-analysis.png.png) | ![](docs/screenshots/jd-match.png.png) |
+| ![](docs/screenshots/resume-analysis.png) | ![](docs/screenshots/jd-match.png) |
 
 | Interview Assistant | Chatbot | Admin Dashboard |
 |-------------------|---------|----------------|
-| ![](docs/screenshots/interview-assistant.png.png) | ![](docs/screenshots/chatbot.png.png) | ![](docs/screenshots/admin-dashboard.png.png) |
+| ![](docs/screenshots/interview-assistant.png) | ![](docs/screenshots/chatbot.png) | 
 
 ## Features
 
