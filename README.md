@@ -16,7 +16,7 @@ LinkedIn: https://www.linkedin.com/in/mohammad-ayan-khan3/
 |----------------|----------|
 | ![](docs/screenshots/resume-analysis.png) | ![](docs/screenshots/jd-match.png) |
 
-| Interview Assistant | Chatbot | Admin Dashboard |
+| Interview Assistant | Chatbot |
 |-------------------|---------|----------------|
 | ![](docs/screenshots/interview-assistant.png) | ![](docs/screenshots/chatbot.png) | 
 
